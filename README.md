@@ -17,7 +17,7 @@
 
 # Directory
 
-- `/stuff` and `/tests` are project files.
+- `/stuff` and `/tests` are project files (yes, you read it right. It says 'stuff', not sure why the tutor told me to use that :rofl:)
 - `/output` stores terminal output for the tests I ran.
 - `/quiz` stores the quiz answers that I submitted.
 
