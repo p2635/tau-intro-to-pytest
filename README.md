@@ -1,5 +1,7 @@
 # Introduction to pytest
 
+<img src="https://github.com/p2635/tau-intro-to-pytest/raw/main/certificate.png" width="450">
+
 - This documents my learning on the course from Test Automation University: https://testautomationu.applitools.com/pytest-tutorial/.
 - Date completed: 8 November 2022.
 - Time spent: ~5 hours
@@ -15,17 +17,17 @@
 
 # Directory
 
-- /stuff and /tests are project files.
-- /output stores terminal output for the tests I ran.
-- /quiz stores the quiz answers that I submitted.
+- `/stuff` and `/tests` are project files.
+- `/output` stores terminal output for the tests I ran.
+- `/quiz` stores the quiz answers that I submitted.
 
 # Chapter 1 - The first test case
 
-- Very simple to set up, just install pytest through pip and create a python file to run.
+- Simple setup, installed pytest through pip and created a python file to run.
 
-# Chapter 2 - Failing test case
+# Chapter 2 - Failed test case
 
-- Assertion introspection is seems very useful, saves you a few secs going into the code to see what's wrong. Failure introspection should be part of our daily life as well (I jest).
+- Assertion introspection is seems useful, saves you a few secs going into the code to see what's wrong. Failure introspection should be part of our daily life as well (I jest).
 
 # Chapter 3 - Asserting exceptions
 
